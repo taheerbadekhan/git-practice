@@ -1,2 +1,1 @@
-My first Git project
-I am learning Git for AWS DevOps
+Welcome to AWS
